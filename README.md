@@ -1,4 +1,4 @@
 # landing-page-react
 This is my landing page
 <br>
--Subarna Sapkota
+-Subarna Sapkota(Prime College)
